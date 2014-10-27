@@ -1,6 +1,8 @@
+#My store of OSX bash shell script files.
 
+##Notes:
 
-From http://ss64.com/osx/syntax-shellscript.html :
+##From http://ss64.com/osx/syntax-shellscript.html :
 
 Run a bash shell script
 
