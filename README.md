@@ -1,6 +1,6 @@
 
 
-From http://ss64.com :
+From http://ss64.com/osx/syntax-shellscript.html :
 
 Run a bash shell script
 
